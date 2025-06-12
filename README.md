@@ -11,12 +11,18 @@ A macOS SwiftUI app to manage academic papers and tags with built-in PDF viewing
 - Add tags live to selected papers
 - Sort added papers by name or date-modified
 - Delete added papers
+- Add NASA ADS link to fetch bibliography info for the selected paper
 
 ## 🚀 Installation
 
 1. Copy the PaperManager.app file to your Application directory.
 2. Open `PaperManager.app` and use.
 3. Run the app on macOS 13.0+.
+
+## Data Usage
+
+- The app stores (creates a copy) the uploaded pdf file to the local Application directory.
+  This means (if you accidentaly delete the source PDF file, you have a copy of it within the App directory) you can read the paper within the application anytime you want unless you delete the entry from the application.
 
 ## 📚 Documentation
 
@@ -26,5 +32,5 @@ A macOS SwiftUI app to manage academic papers and tags with built-in PDF viewing
 
 ## 🧩 Version
 
-Latest: **v1.0.0** — Released: 2025-06-10  
+Latest: **v1.0.1** — Released: 2025-06-12  
 See [CHANGELOG](CHANGELOG.md) for full history.
