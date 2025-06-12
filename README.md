@@ -2,6 +2,11 @@
 
 A macOS SwiftUI app to manage academic papers and tags with built-in PDF viewing and tagging functionality.
 
+<div align="center">
+
+[![Preview](Docs/View_PaperManager.png)](https://github.com/sr-dash/PaperManager-macOS)
+
+</div>
 ## ✨ Features
 
 - Import and preview PDF papers
