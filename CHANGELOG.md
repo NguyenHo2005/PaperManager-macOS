@@ -7,6 +7,8 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Add NASA ADS link to fetch the bibliography info.
+- Responsiveness of App panels and PDF viewer.
+- Remove Tags.
 
 ## [1.0.0] - 2025-06-10
 

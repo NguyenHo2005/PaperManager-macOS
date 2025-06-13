@@ -16,6 +16,7 @@ A macOS SwiftUI app to manage academic papers and tags with built-in PDF viewing
 - Sort added papers by name or date-modified
 - Delete added papers
 - Add NASA ADS link to fetch bibliography info for the selected paper
+- Remove Tags
 
 ## 🚀 Installation
 
